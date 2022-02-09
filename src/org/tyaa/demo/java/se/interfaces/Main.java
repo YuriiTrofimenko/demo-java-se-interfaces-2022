@@ -85,5 +85,6 @@ public class Main {
             System.out.println("Action 2 Passed");
         }
         System.out.println("OK");
+        Comparable comparable;
     }
 }
